@@ -1,3 +1,9 @@
+unplastic/node_modules
+unplastic/dist
+unplastic/web-build
+unplastic/expo-env.d.ts
+unplastic/.env
+
 # Logs
 logs
 *.log
