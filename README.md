@@ -50,3 +50,27 @@ git clone https://github.com/fieldpalmer/native-app-unplastic
 cd native-app-unplastic
 npm install
 npx expo start
+```
+Don't forget to set up your `.env` for Firebase config!
+
+## 📸 Screenshots (Coming Soon)
+- Home / Log screen
+- Progress dashboard
+- Sustainable map
+- Tip of the day
+
+## 🧪 In Progress
+ - QR/barcode product scan for recyclability
+ - Local challenge leaderboard
+ - Merch + guides integration
+
+## 📌 Status
+🚧 MVP in development – core logging + dashboard first, then map + challenges.
+
+## 🌍 License
+MIT
+
+## 🤝 Contribute or Collaborate
+Got an idea, dataset, or want to team up?
+Get in touch
+
